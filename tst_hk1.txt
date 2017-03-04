@@ -1,0 +1,20 @@
+2017-03-02 11:37:58,752 - realTime_hk1.py:35 - logging - first info message
+2017-03-02 11:37:58,875 - realTime_hk1.py:199 - logging - wait...min:37
+2017-03-02 11:42:58,960 - realTime_hk1.py:199 - logging - wait...min:42
+2017-03-02 11:47:59,053 - realTime_hk1.py:199 - logging - wait...min:47
+2017-03-02 11:52:59,149 - realTime_hk1.py:199 - logging - wait...min:52
+2017-03-02 12:00:00,000 - realTime_hk1.py:209 - logging - start! day 2 hour 12
+2017-03-02 12:00:45,309 - realTime_hk1.py:228 - logging - 2500 2500 2500
+2017-03-02 12:00:45,309 - realTime_hk1.py:231 - logging - the program time1 is :25.2695889473
+2017-03-02 12:02:45,407 - realTime_hk1.py:234 - logging - sleep....
+2017-03-02 12:03:12,409 - realTime_hk1.py:250 - logging - the program time2 is :27.0003409386
+2017-03-02 12:03:12,409 - realTime_hk1.py:252 - logging - down search! day 2 hour 12
+2017-03-02 12:03:12,410 - realTime_hk1.py:254 - logging - 5000 5000 5000
+2017-03-02 12:03:25,639 - realTime_hk1.py:278 - logging - down! day 2 hour 12
+2017-03-02 12:03:25,640 - realTime_hk1.py:199 - logging - wait...min:3
+2017-03-02 12:08:25,723 - realTime_hk1.py:199 - logging - wait...min:8
+2017-03-02 12:13:25,825 - realTime_hk1.py:199 - logging - wait...min:13
+2017-03-02 12:18:25,881 - realTime_hk1.py:199 - logging - wait...min:18
+2017-03-02 12:23:25,965 - realTime_hk1.py:199 - logging - wait...min:23
+2017-03-02 12:28:25,993 - realTime_hk1.py:199 - logging - wait...min:28
+2017-03-02 12:33:26,074 - realTime_hk1.py:199 - logging - wait...min:33
